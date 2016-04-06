@@ -1,0 +1,4 @@
+{
+	"requireSpaceAfterBinaryOperators" : true,
+	"disallowMultipleLineBreaks" : true,
+}
