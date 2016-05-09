@@ -1,6 +1,6 @@
-module.exports = function(){
-	return {
-		build : './build/',
-		entry : './src/main.js'
-	}
+module.exports = function() {
+    return {
+        build: './build/',
+        entry: './src/main.js'
+    };
 }

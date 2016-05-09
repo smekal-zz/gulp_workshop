@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: brown;
+}
+
+p {
+  font-style: italic;
+  font-variant: small-caps;
+  border-style: outset;
+  border-width: medium;
+}

@@ -1,0 +1,15 @@
+div#mycontainer {
+    width: 1000px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+@font-face {
+  font-family: 'IndieFlower';
+
+  src: url('../fonts/IndieFlower.ttf');
+}
+
+h2 {
+  font-family: 'IndieFlower';
+}
